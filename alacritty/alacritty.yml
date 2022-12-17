@@ -1,0 +1,14 @@
+font:
+  normal:
+    family: Hack NFM
+    style: Regular
+  bold:
+    family: Hack NFM
+    style: Bold
+  italic:
+    family: Hack NFM 
+    style: Italic
+  bold_italic:
+    family: Hack NFM 
+    style: Bold Italic
+  size: 10
